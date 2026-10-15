@@ -1,0 +1,6 @@
+{
+  "name": "PITWALL — F1 Race Strategist & Monaco Telemetry",
+  "description": "High-octane interactive Formula 1 Pit Strategy Mission Control for the Monaco Grand Prix. Real-time Monte Carlo strategy simulation, live track visualizer, dynamic rain & Safety Car models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
